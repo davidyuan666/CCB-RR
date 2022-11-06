@@ -1,4 +1,4 @@
-# Have moved to Figshare website https://figshare.com/search?q=CCB_RR
+# Have moved to Figshare website https://figshare.com/articles/online_resource/CCB_RR_zip/21434232
 
 # CCB-RR
 Code Context-Based Reviewer Recommendation
