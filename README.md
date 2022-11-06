@@ -4,7 +4,7 @@
 Code Context-Based Reviewer Recommendation
 
 # Dependency
-* Python==2.7  
+* Python==3.7  
 * PyTorch==1.6.0  
 * numpy==1.16.3  
 * tqdm ==4.48.2
