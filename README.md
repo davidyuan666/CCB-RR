@@ -58,7 +58,7 @@ python rstrace_implement.py
 ## Citation
 If you use this code in your research, please cite our paper:
 
-bibtex
+```bibtex
 @article{yuan2025code,
 title={Code context-based reviewer recommendation},
 author={Yuan, Dawei and Peng, Xiao and Chen, Zijie and Zhang, Tao and Lei, Ruijia},
@@ -69,6 +69,7 @@ pages={191202},
 year={2025},
 publisher={Higher Education Press}
 }
+```
 
 
 ## License
