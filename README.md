@@ -1,9 +1,27 @@
 # CCB-RR: Code Context-Based Reviewer Recommendation
 
-Official implementation of ["Code context-based reviewer recommendation"](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-023-3256-9) (Frontiers of Computer Science, 2025).
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![DOI](https://img.shields.io/badge/DOI-10.1007%2Fs11704--023--3256--9-9cf)](https://doi.org/10.1007/s11704-023-3256-9)
+[![Paper PDF](https://img.shields.io/badge/📄_Paper-PDF-red)](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-023-3256-9)
+[![Dataset](https://img.shields.io/badge/📁_Dataset-Figshare-important)](https://figshare.com/articles/online_resource/CCB_RR_zip/21434232)
 
-## Dataset Access
-Dataset has been moved to Figshare: [CCB-RR Dataset](https://figshare.com/articles/online_resource/CCB_RR_zip/21434232)
+## 📑 Publication 
+📌 ​**Title**: Code context-based reviewer recommendation  
+🏛 ​**Journal**: [Frontiers of Computer Science](https://journal.hep.com.cn/fcs/) (SCI-indexed)  
+📅 ​**Year**: 2025  
+🔗 ​**DOI**: [10.1007/s11704-023-3256-9](https://doi.org/10.1007/s11704-023-3256-9)  
+
+## 🗃️ Dataset Access
+The benchmark dataset is available on Figshare:  
+📂 [CCB-RR Dataset](https://figshare.com/articles/online_resource/CCB_RR_zip/21434232)  
+(DOI: [10.6084/m9.figshare.21434232](https://doi.org/10.6084/m9.figshare.21434232))
+
+## Features
+- Context-aware reviewer recommendation for code changes
+- Integration with version control systems
+- Support for multiple programming languages
+
 
 ## Abstract
 Code review is a critical process in software development. We introduce CCB-RR, a model that leverages information from changesets to recommend the most suitable reviewers. The model achieved Top-1 accuracy of 60%, 55%, 51%, and 45% on Android, OpenStack, QT, and LibreOffice projects respectively.
